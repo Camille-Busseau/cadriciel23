@@ -1,0 +1,11 @@
+Github: github.com/Camille-Busseau/cadriciel23
+Source du thème : https://startbootstrap.com/theme/freelancer
+Lignes de commandes - Création d'un projet Laravel - Exercice 1
+Camille Busseau
+
+
+>cd xampp/htdocs
+>composer create-project --prefer-dist laravel/laravel Exercice1 "8.*"
+>cd Exercice1
+>php artisan server
+>php artisan make:controller Exercice1Controller
